@@ -79,7 +79,7 @@
   .hero {
     background: var(--secondary-color);
     text-align: center;
-    padding: 160px 20px;
+    padding: 100px 10px;
   }
   .content-container{
     text-align: center;
